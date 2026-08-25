@@ -1,12 +1,12 @@
 {
-  "version": "0.25.0",
+  "version": "0.30.0",
   "description": "systemprompt bridge — local AI workspace and agent runner",
   "homepage": "https://systemprompt.io",
   "license": "MIT AND BUSL-1.1",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/systempromptio/systemprompt-core/releases/download/bridge-v0.25.0/systemprompt-bridge-x86_64-pc-windows-msvc.exe#/systemprompt-bridge.exe",
-      "hash": "b9afbb8ee8df012afffea70e2970a006c08809d54c276a114f3c58f4fc53f8b3"
+      "url": "https://github.com/systempromptio/systemprompt-core/releases/download/bridge-v0.30.0/systemprompt-bridge-x86_64-pc-windows-msvc.exe#/systemprompt-bridge.exe",
+      "hash": "f5cb0e684d1ac3546fe1d72e87c9ef34da6b650fc5c82dc80bcf06e48fe10e4e"
     }
   },
   "bin": "systemprompt-bridge.exe",
